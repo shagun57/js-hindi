@@ -29,3 +29,5 @@ jsUser.greetingsTwo = function(){
 }
 console.log(jsUser.greetings());
 console.log(jsUser.greetingsTwo());
+
+console.log (jsUser);
